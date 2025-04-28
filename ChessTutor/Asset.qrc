@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Assets">
+        <file>Assets/BlackBishop.png</file>
+        <file>Assets/BlackKing.png</file>
+        <file>Assets/BlackKnight.png</file>
+        <file>Assets/BlackPawn.png</file>
+        <file>Assets/BlackQueen.png</file>
+        <file>Assets/BlackRook.png</file>
+        <file>Assets/Board.png</file>
+        <file>Assets/Puzzle.png</file>
+        <file>Assets/Standard.png</file>
+        <file>Assets/Title.png</file>
+        <file>Assets/WhiteBishop.png</file>
+        <file>Assets/WhiteKing.png</file>
+        <file>Assets/WhiteKnight.png</file>
+        <file>Assets/WhitePawn.png</file>
+        <file>Assets/WhiteQueen.png</file>
+        <file>Assets/WhiteRook.png</file>
+        <file>Assets/ChessMove.wav</file>
+        <file>Assets/Confetti.wav</file>
+    </qresource>
+    <qresource prefix="/Data">
+        <file>lichess_db_puzzle_sample_50.csv</file>
+    </qresource>
+</RCC>
